@@ -1,6 +1,6 @@
 # Lissajous Figures
 
-![Screenshot of Lissajous Figures](https://github.com/yeri63-hp48g/Lissajous-Figures/blob/main/Lissajous.png)
+![Screenshot of Lissajous Figures](Lissajous.png)
 
 Lissajous figures are usually generated on an oscilliscope, an electrical instrument for viewing electrical signals, although they can also be produced by other means, ie. lasers, pendulums, etc. Oscilliscopes are extremely useful for studying signals, displaying straight lines for D.C. (Direct Current), sinusoidial curves for A.C. (Alternating Current), and short bursts of square waves (Digital 1's and 0's). Sinusoidial, or sine waves are the signals necessary for generating Lissajous images, supplying one for the x-axis, and the other for the y-axis, after placing the oscilliscope in X-Y mode.
 
